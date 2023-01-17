@@ -17,8 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
     "scripts": {
-    "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner"
-                },
+    "sonar": "sonar-scanner"},
   },
   "eslintConfig": {
     "extends": [
